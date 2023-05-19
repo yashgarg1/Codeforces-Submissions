@@ -1,2 +1,1 @@
-# Japanese
-Learn japanese 
+# These are my codeforces submissions
