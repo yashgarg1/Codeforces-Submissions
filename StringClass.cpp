@@ -59,6 +59,6 @@ int main(){
     str1=str2;
     int len=str1.length();
     cout<<len<<endl;
-    cout<<str2<<str1;
+    cout<<str2<<str1 ;
     // cout<<str1.len<<endl; 
 }
