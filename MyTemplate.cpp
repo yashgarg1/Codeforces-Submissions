@@ -5,9 +5,8 @@
 #include<set>
 
 #define ll long long
-#define MOD 1e9+7
-// #define for(a,b) for(int i=a;i<b;i++)
-// #define input(n,v) cin>>n;vector<int> v(n);
+#define pb push_back
+const ll MOD=1e9+7;
 
 using namespace std;
 
