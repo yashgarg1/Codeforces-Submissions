@@ -11,9 +11,8 @@ const ll MOD=1e9+7;
 using namespace std;
 
 void solve(){
-    int x,k;
+    ll x,k;
     cin>>x>>k;
-    vector<int> ans;
     if(x%k != 0){
         cout<<1<<endl;
         cout<<x<<endl;
