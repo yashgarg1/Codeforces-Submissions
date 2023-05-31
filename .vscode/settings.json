@@ -5,6 +5,10 @@
         "iterator": "cpp",
         "__locale": "cpp",
         "ostream": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "memory": "cpp",
+        "regex": "cpp",
+        "utility": "cpp",
+        "chrono": "cpp"
     }
 }
