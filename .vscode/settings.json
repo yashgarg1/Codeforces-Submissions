@@ -9,6 +9,9 @@
         "memory": "cpp",
         "regex": "cpp",
         "utility": "cpp",
-        "chrono": "cpp"
+        "chrono": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "iostream": "cpp"
     }
 }

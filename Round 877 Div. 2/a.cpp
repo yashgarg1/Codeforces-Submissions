@@ -20,6 +20,17 @@ void inp(int n, vector<int>& v){
 }
 
 void solve(){
+    int n;
+    cin>>n;
+    vector<int> v;
+    inp(n,v);
+    sort(v.begin(), v.end());
+    if(v[0]<0){
+        cout<<v[0]<<endl;
+    }
+    else {
+        cout<<v[n-1]<<endl;
+    }
     
 }
 
